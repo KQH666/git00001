@@ -5,6 +5,7 @@ public class gitTest1 {
         System.out.println("KQH -^_^-");
         System.out.println("KQH -^2^-");
         System.out.println("KQH -^_^-");
+        System.out.println("KQH -^_^- HOT FIX");
 
     }
 
